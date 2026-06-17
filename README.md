@@ -57,6 +57,8 @@ AWS-CloudFormation-IaC/
 ├── implementation-report.md
 └── architecture-diagram.png
 
+
+
 ## Architecture Diagram
 
 ![Architecture](aws-cloudformation-attractive.png)

@@ -57,7 +57,14 @@ AWS-CloudFormation-IaC/
 ├── implementation-report.md
 └── architecture-diagram.png
 
+## Architecture Diagram
+
+![Architecture](aws-cloudformation-attractive.png)
 ---
+
+## Note
+
+This project demonstrates Infrastructure as Code using AWS CloudFormation. Due to AWS billing restrictions, the deployment process is documented and represented through architecture diagrams and configuration templates.
 
 ## Author
 

@@ -49,13 +49,15 @@ EC2 Instance
 
 ## Repository Structure
 
+```text
 AWS-CloudFormation-IaC/
 │
 ├── README.md
 ├── cloudformation-template.yaml
 ├── deployment-guide.md
-├── implementation-report.md
-└── architecture-diagram.png
+├── Implementation-Report.md
+└── aws-cloudformation-attractive.png
+```
 
 
 
